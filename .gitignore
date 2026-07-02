@@ -1,0 +1,21 @@
+# Игнорировать всё по умолчанию
+*
+
+# Оставить packwiz-файлы
+!pack.toml
+!index.toml
+!.packwizignore
+!.gitignore
+!*.pw.toml
+
+# Оставить нужные папки
+!mods/
+!mods/**
+
+!kubejs/
+!kubejs/**
+
+!resourcepacks/
+!resourcepacks/**
+
+!.gitattributes

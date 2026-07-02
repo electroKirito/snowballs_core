@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "5570b31d5ceb5a508c6ad7261c960eb6641c4da21f239992595dd959830368b2"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "eb94f8e361ffc1cdf5a5b07bd647e6b20c13f957a23953a38bcec7b5e8642608"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+
+[[files]]
+file = "kubejs/server_scripts/spawnShopKeeper.js"
+hash = "73b71c55b36952253bd80ec6d2f4634c2d5e08bfb8c2ba799c5af69d1356ed02"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/AsyncParticles-20.1.0b-beta.6+1.20.1.jar"
+hash = "135df39926058a0f1c880ec4368249075b35c953b57b4c79bf173f06666eb09c"
+
+[[files]]
+file = "mods/Axiom-5.4.2-for-MC1.20.1.jar"
+hash = "e54ca8ea6e74c0ba2840199b1b12eff2ad564d74c1239f155dcfec74e61792e9"
+
+[[files]]
+file = "mods/IBEEditor-1.20-2.2.8-fabric.jar"
+hash = "0381dbbe9eb0fe8c2d0335847ed7ee24f92f9e956584679859dff2695428035d"
+
+[[files]]
+file = "mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "mods/cardinal-components-base-5.2.3.jar"
+hash = "2f36b690bbee952b9b67f287a64551eee186c6ba7f123045c5722fa307cc603e"
+
+[[files]]
+file = "mods/cardinal-components-entity-5.2.3.jar"
+hash = "e3269790700a4e4877da92a88b7b6d64b167556ff9fa8996f85757730158d14d"
+
+[[files]]
+file = "mods/cardinal-components-item-5.2.3.jar"
+hash = "7260dabd1146b40b7279b9f9f3b98cbd041ad1abf1415225f47649d35b53b558"
+
+[[files]]
+file = "mods/cmdkeybind-1.6.3-1.20.jar"
+hash = "24abd748ad00e2b82a143aed2f2685c574670951951e45d39d4d0e89fa54e445"
+
+[[files]]
+file = "mods/entityculling-fabric-1.10.5-mc1.20.1.jar"
+hash = "cb4deb2a823c83af98fcc06e92807913b482de54981d1657a29882dc1fd4665c"
+
+[[files]]
+file = "mods/fabric-api-0.92.9+1.20.1.jar"
+hash = "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd"
+
+[[files]]
+file = "mods/iris-1.7.6+mc1.20.1.jar"
+hash = "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5"
+
+[[files]]
+file = "mods/keepinvcontrol-1.0.1-1.20.jar"
+hash = "46119a81d5887c6d82966d517ccd4c0257bd3822f2c4221cc7184d2704ec5475"
+
+[[files]]
+file = "mods/kubejs-fabric-2001.6.5-build.26.jar"
+hash = "e1a3f3fe1190635b8fe6469e28c21969f17183a0fafb3e69c21709c564894923"
+
+[[files]]
+file = "mods/modmenu-7.2.2-1.20.1.jar"
+hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+
+[[files]]
+file = "mods/probejs-6.0.0-fabric.jar"
+hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
+
+[[files]]
+file = "mods/rcuz_core_moj-3.1.30.jar"
+hash = "acfc266568decf896dd6fdd311a7ca89d55b2afb98ed1f5e49768a38c13bbef4"
+
+[[files]]
+file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
+
+[[files]]
+file = "mods/rhino-fabric-2001.2.3-build.10.jar"
+hash = "e205fac40f7f27abfa284b00f62d9c1cbd6da494a64cb984ebadd9d76ff5f3ee"
+
+[[files]]
+file = "mods/snowballs_el_edition-14.8.8-Aleph_0.jar"
+hash = "330acdce93bef48977163115d20ff45abf8d09ec49a405d3ab75955e0aab6949"
+
+[[files]]
+file = "mods/sodium-extra-0.5.9+mc1.20.1.jar"
+hash = "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f"
+
+[[files]]
+file = "mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+hash = "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15-1.20.1-fabric-forge.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
