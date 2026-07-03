@@ -1,7 +1,7 @@
 LevelEvents.tick(event => {
     if (event.server.runCommandSilent("scoreboard players get process game") != 1) return;
     if (event.server.getTickCount() % 20 != 0) return;
-    if (Math.random() > 0.03) return; 
+    if (Math.random() > 1) return; 
 
     if (event.level.clientSide) return;
 
@@ -18,14 +18,14 @@ LevelEvents.tick(event => {
 
     
 
+    let foundY = null;
     let radius = 50;
     let randX = pX + Math.floor(Math.random() * (radius * 2 + 1)) - radius;
     let randZ = pZ + Math.floor(Math.random() * (radius * 2 + 1)) - radius;
 
     
     
-    let foundY = null;
-    for (let dY = 25; dY >= -25; dY--) {
+    for (let dY = 2; dY >= -25; dY--) {
         let checkY = pY + dY;
         let currentBlock = level.getBlock(randX, checkY, randZ);
         let blockAbove = level.getBlock(randX, checkY + 1, randZ);
@@ -35,6 +35,7 @@ LevelEvents.tick(event => {
             break;
         }
     }
+        
     
 
     if (foundY !== null) {
