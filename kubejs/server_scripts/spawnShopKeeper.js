@@ -1,7 +1,7 @@
 LevelEvents.tick(event => {
     if (event.server.runCommandSilent("scoreboard players get process game") != 1) return;
     if (event.server.getTickCount() % 20 != 0) return;
-    if (Math.random() > 1) return; 
+    if (Math.random() > 0.03) return; 
 
     if (event.level.clientSide) return;
 
