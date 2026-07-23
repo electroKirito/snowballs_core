@@ -105,6 +105,10 @@ file = "mods/rhino-fabric-2001.2.3-build.10.jar"
 hash = "e205fac40f7f27abfa284b00f62d9c1cbd6da494a64cb984ebadd9d76ff5f3ee"
 
 [[files]]
+file = "mods/satin-1.13.0.jar"
+hash = "a69ff689ef681bce265deea15a829f89313fa5af4f2e6a0a6984281cac682dde"
+
+[[files]]
 file = "mods/snowballs_el_edition-14.8.8-Aleph_5.5.jar"
 hash = "ccec64426efc45868d46d64b81cbb84fa0767bbbd2e6883aa74477efa1a07b66"
 
