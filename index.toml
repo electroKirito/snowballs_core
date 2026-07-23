@@ -105,8 +105,8 @@ file = "mods/rhino-fabric-2001.2.3-build.10.jar"
 hash = "e205fac40f7f27abfa284b00f62d9c1cbd6da494a64cb984ebadd9d76ff5f3ee"
 
 [[files]]
-file = "mods/snowballs_el_edition-14.8.8-Aleph_5.4.jar"
-hash = "bd24b0cd2b54ac5082ccd3efc7f97131c426657ef26b575f73d520a0bec8e49b"
+file = "mods/snowballs_el_edition-14.8.8-Aleph_5.5.jar"
+hash = "ccec64426efc45868d46d64b81cbb84fa0767bbbd2e6883aa74477efa1a07b66"
 
 [[files]]
 file = "mods/sodium-extra-0.5.9+mc1.20.1.jar"
