@@ -109,8 +109,8 @@ file = "mods/satin-1.13.0.jar"
 hash = "a69ff689ef681bce265deea15a829f89313fa5af4f2e6a0a6984281cac682dde"
 
 [[files]]
-file = "mods/snowballs_el_edition-14.8.8-Aleph_5.5.jar"
-hash = "ccec64426efc45868d46d64b81cbb84fa0767bbbd2e6883aa74477efa1a07b66"
+file = "mods/snowballs_el_edition-14.8.8-Aleph_5.6.jar"
+hash = "01e3a089c3a2953724f81d0b52476c53693f880e8e0e47a11016c520c95e2c1d"
 
 [[files]]
 file = "mods/sodium-extra-0.5.9+mc1.20.1.jar"
